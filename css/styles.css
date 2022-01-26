@@ -1,0 +1,16 @@
+body{
+    text-align: center;
+    color: black;
+    background-image: url('../images/coding-portfolio.jpeg');
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+.text{
+    display: table;
+    background-color: white;
+    margin: 0px auto 0px auto;
+    padding: 2px;
+    opacity: 75%;
+    border-radius: 5px;
+    line-height: 30px;
+}
