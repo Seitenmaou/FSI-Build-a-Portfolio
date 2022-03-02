@@ -14,3 +14,12 @@ body{
     border-radius: 5px;
     line-height: 30px;
 }
+nav li{
+    display: inline;
+    background-color: white;
+    margin: 0px auto 0px auto;
+    padding: 2px;
+    opacity: 75%;
+    border-radius: 5px;
+    line-height: 30px;
+}
